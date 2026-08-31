@@ -24,7 +24,7 @@ A Python tool that automates the parsing of Quartus Prime Static Timing Analysis
 - **Two-panel chart** — STA slack + resource utilisation with colour-coded pass/fail indicators
 - **Text report** — auto-saved `eda_summary.txt`
 - **PNG chart** — auto-saved `eda_summary.png`
-
+![EDA Analysis Chart](eda_summary.png)
 ---
 
 ## Context
